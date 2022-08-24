@@ -1,5 +1,4 @@
 ## HI! 
-This is simple road segmentation with OpenCV
 
 Code https://github.com/MariaSultanbekova/simple_segmentation_with_OpenCV/blob/main/road_detected.py
 
